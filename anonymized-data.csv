@@ -1,0 +1,8 @@
+Your Full Name,Date Preference [Sun 20th Dec 2020],Date Preference [Sat 26th Dec 2020],Date Preference [Sun 3rd Jan 2021],Can you cook?,Course Choices,What will you NOT eat?,What will you drink?
+Person 1,Med (1),High (2),Low (0),No,"Dessert (D), None (N)",All Meat (including birds),"Wine, Beer, Soft drinks"
+Person 2,High (2),Low (0),Med (1),Yes,"Appetizer (A), Main (M)",,"Wine, Beer, Cocktails, Soft drinks"
+Person 3,High (2),Med (1),Low (0),Yes,"Appetizer (A), Main (M)","Offals/organs, please no..","Wine, Cocktails"
+Person 4,Low (0),High (2),Med (1),Yes,Main (M),I can eat the food that a little spicy but not very spicy.,Soft drinks
+Person 5,Med (1),High (2),Low (0),Yes,Appetizer (A),,"Wine, Beer, Cocktails, Soft drinks"
+Person 6,Med (1),Low (0),High (2),Yes,"Appetizer (A), Main (M), Dessert (D)",,"Beer, Cocktails, Soft drinks"
+Person 7,High (2),Med (1),Low (0),Yes,"Appetizer (A), Main (M)",,"Wine, Beer, Cocktails, Soft drinks"
