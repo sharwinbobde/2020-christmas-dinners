@@ -27,7 +27,8 @@ The COVID19 crisis has posed many problems in 2020. One of these problems is som
 
 
 ## Approach
-We will contruct and solve this Many Objective Optimization (MOO) problem using an evolutionary algorithm called *NSGA-II*
+We will contruct and solve this Many Objective Optimization (MOO) problem using an evolutionary algorithm called *NSGA-II*.
+
 We will use the [**pymoo**](https://pymoo.org/) library to make the evolutionary strategy simpler.
 
 
